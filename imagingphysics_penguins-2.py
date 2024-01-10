@@ -10,7 +10,7 @@ Original file is located at
 
 
 The dataset is: from Kaggle web page
-https://storage.googleapis.com/kagglesdsdata/datasets/1154655/1935698/penguins.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20231210%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231210T121509Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=5131169eac39611f4eb6b5f0fbe32b4f241b48bc65fd656fd8fd50af787c8a3518f6405161464e4ce1157e139a538e780288f6a4b4f866bba48cc9ecfc244292053bbc78e2430d4781bbd42b3da516e162c49ce52052aac48f0a9ea1ee1ae10a1714f7c7f90f3750a8d72873860859fa70a318dcabbd138a6e073406ac3c7bce79d76fcdcddf7ef63fe18ede7c48faa6800541dc1636b5496eb635f0953983b5ae55478dc4ee9c056a147e9fa5599896719bca950cf3b28a3f98be98bdcfff3a968847a582aa9a945a748886a16a8765b38737382006efdce490601030fbe2233b58bd599de9cbbb67303e672e47bcfe62487d68a501d7e92c177c113d6927a9
+https://www.kaggle.com/datasets/larsen0966/penguins
 """
 
 # Commented out IPython magic to ensure Python compatibility.
